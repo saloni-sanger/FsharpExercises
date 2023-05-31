@@ -16,7 +16,7 @@ Larson at Seattle University.
     - Returns a list that merges that lists in alternating fashion, starting with listA.
     - Append remaining items of longer list if it exists.
 
-## Note:
+##### Note:
 *The following functions are for a dictionary. The dictionary is implemented using a list of tuples. Each tuple represents a key value pair. The first item is a string that represents the key, the second is an integer representing the value. The dictionary is unordered and every key can be assumed to be unique*
 
 **search**
